@@ -1,0 +1,134 @@
+1.26295,Exit slow start,exceeding SS_EXIT_THRESHOLD
+28.3172,Restart,can't map delay on delay curve
+29.6792,Exit slow start,exceeding SS_EXIT_THRESHOLD
+63.5887,Timeout
+63.5887,clearing sending list because of timeout
+63.6338,Received an expired out of sequence packet ,21150,21163
+63.6379,Received an expired out of sequence packet ,21151,21163
+63.7103,Received an expired out of sequence packet ,21152,21163
+63.7103,Received an expired out of sequence packet ,21153,21163
+63.7103,Received an expired out of sequence packet ,21154,21163
+63.7103,Received an expired out of sequence packet ,21155,21163
+63.7103,Received an expired out of sequence packet ,21156,21163
+63.7103,Received an expired out of sequence packet ,21157,21163
+63.7103,Received an expired out of sequence packet ,21158,21163
+63.7103,Received an expired out of sequence packet ,21159,21163
+63.7103,Received an expired out of sequence packet ,21160,21163
+63.7103,Received an expired out of sequence packet ,21161,21163
+63.7103,Received an expired out of sequence packet ,21162,21163
+100.803,Timeout
+100.803,clearing sending list because of timeout
+100.81,Received an expired out of sequence packet ,38743,38804
+100.933,Received an expired out of sequence packet ,38744,38804
+101.029,Received an expired out of sequence packet ,38745,38804
+101.029,Received an expired out of sequence packet ,38746,38804
+101.113,Received an expired out of sequence packet ,38747,38804
+101.114,Received an expired out of sequence packet ,38748,38804
+101.116,Received an expired out of sequence packet ,38749,38804
+101.117,Received an expired out of sequence packet ,38750,38804
+101.118,Received an expired out of sequence packet ,38751,38804
+101.119,Received an expired out of sequence packet ,38752,38804
+101.125,Received an expired out of sequence packet ,38753,38804
+101.127,Received an expired out of sequence packet ,38754,38804
+101.13,Received an expired out of sequence packet ,38755,38804
+101.13,Received an expired out of sequence packet ,38756,38804
+101.13,Received an expired out of sequence packet ,38757,38804
+101.136,Received an expired out of sequence packet ,38758,38804
+101.136,Received an expired out of sequence packet ,38759,38804
+101.136,Received an expired out of sequence packet ,38760,38804
+101.137,Received an expired out of sequence packet ,38761,38804
+101.145,Received an expired out of sequence packet ,38762,38804
+101.146,Received an expired out of sequence packet ,38763,38804
+101.146,Received an expired out of sequence packet ,38764,38804
+101.146,Received an expired out of sequence packet ,38765,38804
+101.146,Received an expired out of sequence packet ,38766,38804
+101.148,Received an expired out of sequence packet ,38767,38804
+101.148,Received an expired out of sequence packet ,38768,38804
+101.148,Received an expired out of sequence packet ,38769,38804
+101.148,Received an expired out of sequence packet ,38770,38804
+101.151,Received an expired out of sequence packet ,38771,38804
+101.151,Received an expired out of sequence packet ,38772,38804
+101.151,Received an expired out of sequence packet ,38773,38804
+101.155,Received an expired out of sequence packet ,38774,38804
+101.155,Received an expired out of sequence packet ,38775,38804
+101.155,Received an expired out of sequence packet ,38776,38804
+101.158,Received an expired out of sequence packet ,38777,38804
+101.158,Received an expired out of sequence packet ,38778,38804
+101.158,Received an expired out of sequence packet ,38779,38804
+101.159,Received an expired out of sequence packet ,38780,38804
+101.16,Received an expired out of sequence packet ,38781,38804
+101.16,Received an expired out of sequence packet ,38782,38804
+101.258,Received an expired out of sequence packet ,38783,38804
+101.291,Received an expired out of sequence packet ,38784,38804
+101.296,Received an expired out of sequence packet ,38785,38804
+101.298,Received an expired out of sequence packet ,38786,38804
+101.298,Received an expired out of sequence packet ,38787,38804
+101.299,Received an expired out of sequence packet ,38788,38804
+101.302,Received an expired out of sequence packet ,38789,38804
+101.304,Received an expired out of sequence packet ,38790,38804
+101.304,Received an expired out of sequence packet ,38791,38804
+101.307,Received an expired out of sequence packet ,38792,38804
+101.308,Received an expired out of sequence packet ,38793,38804
+101.309,Received an expired out of sequence packet ,38794,38804
+101.311,Received an expired out of sequence packet ,38795,38804
+101.313,Received an expired out of sequence packet ,38796,38804
+101.314,Received an expired out of sequence packet ,38797,38804
+101.315,Received an expired out of sequence packet ,38798,38804
+101.317,Received an expired out of sequence packet ,38799,38804
+101.317,Received an expired out of sequence packet ,38800,38804
+101.319,Received an expired out of sequence packet ,38801,38804
+101.321,Received an expired out of sequence packet ,38802,38804
+101.321,Received an expired out of sequence packet ,38803,38804
+105.263,Timeout
+105.263,clearing sending list because of timeout
+105.429,Received an expired out of sequence packet ,40363,40426
+105.429,Received an expired out of sequence packet ,40364,40426
+106.429,Timeout
+106.429,clearing sending list because of timeout
+106.43,Received an expired out of sequence packet ,40365,40428
+107.43,Timeout
+107.43,clearing sending list because of timeout
+107.442,Received an expired out of sequence packet ,40366,40436
+107.735,Received an expired out of sequence packet ,40367,40436
+107.749,Received an expired out of sequence packet ,40368,40436
+107.751,Received an expired out of sequence packet ,40369,40436
+107.751,Received an expired out of sequence packet ,40370,40436
+107.762,Received an expired out of sequence packet ,40371,40436
+107.764,Received an expired out of sequence packet ,40372,40436
+107.779,Received an expired out of sequence packet ,40373,40436
+107.779,Received an expired out of sequence packet ,40374,40436
+107.786,Received an expired out of sequence packet ,40375,40436
+107.787,Received an expired out of sequence packet ,40376,40436
+107.804,Received an expired out of sequence packet ,40377,40436
+107.808,Received an expired out of sequence packet ,40378,40436
+107.809,Received an expired out of sequence packet ,40379,40436
+107.814,Received an expired out of sequence packet ,40380,40436
+107.827,Received an expired out of sequence packet ,40381,40436
+107.829,Received an expired out of sequence packet ,40382,40436
+107.831,Received an expired out of sequence packet ,40383,40436
+107.839,Received an expired out of sequence packet ,40384,40436
+107.843,Received an expired out of sequence packet ,40385,40436
+107.846,Received an expired out of sequence packet ,40386,40436
+107.855,Received an expired out of sequence packet ,40387,40436
+107.857,Received an expired out of sequence packet ,40388,40436
+107.867,Received an expired out of sequence packet ,40389,40436
+107.875,Received an expired out of sequence packet ,40390,40436
+107.879,Received an expired out of sequence packet ,40391,40436
+107.884,Received an expired out of sequence packet ,40392,40436
+107.898,Received an expired out of sequence packet ,40393,40436
+107.901,Received an expired out of sequence packet ,40394,40436
+107.901,Received an expired out of sequence packet ,40395,40436
+107.901,Received an expired out of sequence packet ,40396,40436
+107.906,Received an expired out of sequence packet ,40397,40436
+107.91,Received an expired out of sequence packet ,40398,40436
+107.916,Received an expired out of sequence packet ,40399,40436
+107.917,Received an expired out of sequence packet ,40400,40436
+107.919,Received an expired out of sequence packet ,40401,40436
+107.921,Received an expired out of sequence packet ,40402,40436
+107.923,Received an expired out of sequence packet ,40403,40436
+107.924,Received an expired out of sequence packet ,40404,40436
+107.925,Received an expired out of sequence packet ,40405,40436
+107.926,Received an expired out of sequence packet ,40406,40436
+107.935,Received an expired out of sequence packet ,40407,40436
+107.935,Received an expired out of sequence packet ,40408,40436
+107.937,Received an expired out of sequence packet 
